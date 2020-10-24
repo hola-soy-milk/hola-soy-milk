@@ -27,6 +27,4 @@ jobs:
           feed_url: https://ramonh.dev/feed.xml # default is 
             # Number of posts to display
           count: 3 # optional, default is 5
-            # Path to the readme file
-          readme_path: README.md # optional, default is README.md
 
