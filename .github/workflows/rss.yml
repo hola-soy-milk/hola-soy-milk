@@ -17,5 +17,5 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://ramonh.dev/feed.xml
-          readme-section: rss
+          readme-section: feed
 
