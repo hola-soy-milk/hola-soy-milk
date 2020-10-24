@@ -19,8 +19,8 @@ I've organised stuff like:
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.com)
 
 I've written stuff like:
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!--START_SECTION:rss-->
+<!--END_SECTION:feed-->
 
 [#BlackLivesMatter](https://blacklivesmatter.com/)
 [GitHub, cancel that ICE contract!](https://github.com/drop-ice/dear-github-2.0)
