@@ -20,7 +20,9 @@ I've organised stuff like:
 
 I've written stuff like:
 <!-- BLOG-POST-LIST:START -->
-- List of blog posts
+- [Running GUI Linux applications in WSL 2](https://ramonh.dev/2020/09/30/wsl2-gui-apps/)
+- [Granting user read/write permissions to a USB device in Ubuntu Linux on boot](https://ramonh.dev/2020/09/22/usb-device-linux-startup/)
+- [Running a learn together coding group remotely](https://ramonh.dev/2020/06/13/study-group-online/)
 <!-- BLOG-POST-LIST:END -->
 
 Also:
