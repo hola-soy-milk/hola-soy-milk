@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: RSS Feed
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the main branch
@@ -27,6 +27,6 @@ jobs:
             # The URL of the RSS feed
           feed_url: https://ramonh.dev/feed.xml # default is 
             # Number of posts to display
-          count: 5 # optional, default is 5
+          count: 3 # optional, default is 5
             # Path to the readme file
           readme_path: README.md # optional, default is README.md
