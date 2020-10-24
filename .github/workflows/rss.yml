@@ -12,9 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: https://ramonh.dev/feed.xml
-          readme-section: blog
-          max: 3
+          feed_list: "https://ramonh.dev/feed.xml"
+          max_post_count: 3
 
