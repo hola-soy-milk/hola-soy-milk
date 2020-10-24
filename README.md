@@ -6,19 +6,19 @@ I love playing videogames and talking about them!
 
 I'm a freelance web, desktop and mobile software developer.
 
-I've worked on stuff like:
+💻 I've worked on stuff like:
 
 - [Primed Mind](https://primedmind.com/)
 - [Renamer](https://renamer.com/)
 - [Where2Help](https://where2help.wien/)
 
-I've organised stuff like:
+👥 I've organised stuff like:
 
 - [EuRuKo 2018](https://euruko2018.org/)
 - [Global Diversity CFP Day Vienna](https://www.globaldiversitycfpday.com/)
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.com)
 
-I've written stuff like:
+✍️ I've written stuff like:
 <!-- BLOG-POST-LIST:START -->
 - [Running GUI Linux applications in WSL 2](https://ramonh.dev/2020/09/30/wsl2-gui-apps/)
 - [Granting user read/write permissions to a USB device in Ubuntu Linux on boot](https://ramonh.dev/2020/09/22/usb-device-linux-startup/)
