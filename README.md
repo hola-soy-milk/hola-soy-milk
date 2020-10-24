@@ -20,7 +20,7 @@ I've organised stuff like:
 
 I've written stuff like:
 <!--START_SECTION:rss-->
-<!--END_SECTION:feed-->
+<!--END_SECTION:rss-->
 
 [#BlackLivesMatter](https://blacklivesmatter.com/)
 [GitHub, cancel that ICE contract!](https://github.com/drop-ice/dear-github-2.0)
