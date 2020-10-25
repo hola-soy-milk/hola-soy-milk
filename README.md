@@ -2,8 +2,6 @@
 
 My pronouns are he/him.
 
-I love playing videogames and talking about them!
-
 I'm a freelance web, desktop and mobile software developer.
 
 💻 I've worked on stuff like:
@@ -24,6 +22,8 @@ I'm a freelance web, desktop and mobile software developer.
 - [Granting user read/write permissions to a USB device in Ubuntu Linux on boot](https://ramonh.dev/2020/09/22/usb-device-linux-startup/)
 - [Running a learn together coding group remotely](https://ramonh.dev/2020/06/13/study-group-online/)
 <!-- BLOG-POST-LIST:END -->
+
+I love playing videogames and talking about them!
 
 Also:
 
