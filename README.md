@@ -18,9 +18,9 @@ I'm a freelance web, desktop and mobile software developer.
 
 ✍️ I've written stuff like:
 <!-- BLOG-POST-LIST:START -->
+- [How we did audio/video for our online conference](https://ramonh.dev/2020/10/25/running-a-conference-online/)
 - [Running GUI Linux applications in WSL 2](https://ramonh.dev/2020/09/30/wsl2-gui-apps/)
 - [Granting user read/write permissions to a USB device in Ubuntu Linux on boot](https://ramonh.dev/2020/09/22/usb-device-linux-startup/)
-- [Running a learn together coding group remotely](https://ramonh.dev/2020/06/13/study-group-online/)
 <!-- BLOG-POST-LIST:END -->
 
 I love playing videogames and talking about them!
