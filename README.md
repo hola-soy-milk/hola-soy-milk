@@ -2,7 +2,7 @@
 
 My pronouns are he/him.
 
-I'm a software developer and developer relations contractor.
+I'm a software development and developer relations contractor.
 
 💻 I've worked on stuff like:
 
