@@ -2,7 +2,7 @@
 
 My pronouns are he/him.
 
-I'm a freelance web, desktop and mobile software developer.
+I'm a software developer and developer relations contractor.
 
 💻 I've worked on stuff like:
 
