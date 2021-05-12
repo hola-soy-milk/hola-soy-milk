@@ -18,9 +18,9 @@ I'm a software development and developer relations contractor.
 
 ✍️ I've written stuff like:
 <!-- BLOG-POST-LIST:START -->
+- [Pre-recording conference talks](https://ramonh.dev/2021/05/11/pre-recording-talks/)
 - [My first few months as a developer advocate](https://ramonh.dev/2021/04/24/devrel-first-months/)
 - [Hosting a Podcast from Scratch](https://ramonh.dev/2021/01/23/recording-podcast/)
-- [How we did audio/video for our online conference](https://ramonh.dev/2020/10/25/running-a-conference-online/)
 <!-- BLOG-POST-LIST:END -->
 
 I love playing videogames and talking about them!
