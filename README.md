@@ -44,6 +44,6 @@ I love playing videogames and talking about them!
 
 Also:
 
-[#BlackLivesMatter](https://blacklivesmatter.com/)
+# [#BlackLivesMatter](https://blacklivesmatter.com/)
 
-[GitHub, cancel that ICE contract!](https://github.com/drop-ice/dear-github-2.0)
+# [GitHub, cancel that ICE contract!](https://github.com/drop-ice/dear-github-2.0)
