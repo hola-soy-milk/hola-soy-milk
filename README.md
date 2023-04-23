@@ -31,9 +31,9 @@ I stream coding weekly on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_
 ### ✍️ I've written stuff like:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Objective-C Made Me a Versatile Software Engineer](http://localhost:4000/2023/04/20/objective-c-versatility/)
-- [Asking for Help Effectively as a Software Developer](http://localhost:4000/2022/11/13/asking-for-help/)
-- [My experience speaking at DevRelCon 2021](http://localhost:4000/2021/11/15/devrelcon-2021/)
+- [How Objective-C Made Me a Versatile Software Engineer](https://ramonh.dev/2023/04/20/objective-c-versatility/)
+- [Asking for Help Effectively as a Software Developer](https://ramonh.dev/2022/11/13/asking-for-help/)
+- [My experience speaking at DevRelCon 2021](https://ramonh.dev/2021/11/15/devrelcon-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🇨🇱 También escribo en español:
