@@ -16,7 +16,7 @@ I stream coding weekly on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_
 
 ### 👥 I've organised stuff like:
 
-- [EuRuKo 2018](https://euruko2018.org/)
+- [EuRuKo 2018](https://2018.euruko.org/)
 - [Global Diversity CFP Day Vienna](https://www.globaldiversitycfpday.com/)
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.com)
 
