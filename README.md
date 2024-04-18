@@ -1,6 +1,6 @@
-## Hi! I'm [Ramón](https://ramonh.dev/card), and I'm happy to see you!
+## Hi! I'm [Carmen](https://ramonh.dev/card), and I'm happy to see you!
 
-My pronouns are he/him.
+My pronouns are she/her.
 
 I'm a Developer Relations Strategist and Developer Educator.
 
