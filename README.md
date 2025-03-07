@@ -33,10 +33,6 @@ I stream coding weekly on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_
 - [My experience speaking at DevRelCon 2021](https://carmenh.dev/2021/11/15/devrelcon-2021/)
 <!-- BLOG-POST-LIST:END -->
 
-### 🇨🇱 También escribo en español:
-
-- [Cómo Gestionar las Versiones de Dependencias con Confianza](https://www.escuelafrontend.com/articulos/gestionar-versiones-dependencias)
-
 I love playing videogames and talking about them!
 
 Also:
