@@ -23,7 +23,7 @@ I stream coding weekly on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_
 ### 🗣️ I've given talks like:
 
 - [Untangling Your Dependencies: A Pattern for a Well-Knit JavaScript Project](https://www.youtube.com/watch?v=6Ki2lkFfLJs) - JSHeroes 2024
-- [Funky Hardware Beats: The story of dance-mat.js](https://www.youtube.com/watch?v=Wye4RJHMvGA)
+- [Funky Hardware Beats: The story of dance-mat.js](https://www.youtube.com/watch?v=Wye4RJHMvGA) - WeyWeyWeb 2024
 
 ### ✍️ I've written stuff like:
 
