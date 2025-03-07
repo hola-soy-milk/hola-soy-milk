@@ -22,11 +22,8 @@ I stream coding weekly on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_
 
 ### 🗣️ I've given talks like:
 
-- [There's More to Open Source than Code](https://www.youtube.com/watch?v=9y5CYVr78g0) - CodeLand 2022
-- [Developer Relations in a Nutshell](https://www.youtube.com/watch?v=HtK8Y8CzdY0) - FullStack eXchange 2022
-- [Nervous About Speaking?](https://www.youtube.com/watch?v=3eea-AzrWpk) - Global Diversity CFP Day 2021
-- [New dev, old codebase: A series of mentorship stories](https://www.youtube.com/watch?v=xqcAUN31qvQ) - RailsConf 2021
-- [Just go for it: The story of dance-mat.js](https://www.youtube.com/watch?v=4t2NrVkov7s) - JavaScript Bangkok 1.0.0 2020
+- [Untangling Your Dependencies: A Pattern for a Well-Knit JavaScript Project](https://www.youtube.com/watch?v=6Ki2lkFfLJs) - JSHeroes 2024
+- [Funky Hardware Beats: The story of dance-mat.js](https://www.youtube.com/watch?v=Wye4RJHMvGA)
 
 ### ✍️ I've written stuff like:
 
