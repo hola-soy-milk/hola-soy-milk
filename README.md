@@ -2,7 +2,7 @@
 
 My pronouns are she/her.
 
-I'm a Developer Relations Strategist and Developer Educator.
+I'm a Chief Technology Officer who builds products and spends a lot of time thinking about how developers actually use them.
 
 I stream coding occasionally on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_milk_).
 
