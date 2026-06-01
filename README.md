@@ -4,7 +4,7 @@ My pronouns are she/her.
 
 I'm a Developer Relations Strategist and Developer Educator.
 
-I stream coding weekly on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_milk_).
+I stream coding occasionally on Twitch as [hola_soy_milk_](https://twitch.tv/hola_soy_milk_).
 
 ### 💻 I've worked on stuff like:
 
